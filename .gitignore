@@ -1,0 +1,5 @@
+doc/
+plugin/
+bundle/
+.DS_Store
+.netrwhist
